@@ -2,6 +2,9 @@
 
 # dependencies
 /node_modules
+server/node_modules
+server/src/config/db.js
+
 /.pnp
 .pnp.js
 
